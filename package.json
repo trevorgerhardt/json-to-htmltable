@@ -1,0 +1,17 @@
+{
+  "name": "json-to-htmltable",
+  "version": "0.0.1",
+  "description": "Convert a JSON Array to an HTML table",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/trevorgerhardt/json-to-htmltable.git"
+  },
+  "author": "Trevor Gerhardt",
+  "license": "BSD",
+  "bin": "bin/json-to-htmltable",
+  "dependencies": {
+    "commander": "~1.1.1",
+    "underscore": "~1.4.4"
+  }
+}
